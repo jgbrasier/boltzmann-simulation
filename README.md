@@ -29,3 +29,5 @@ In __main()__:
  
 ### Report
 You are free to view our final report "C - MAS BRASIER.pdf". (It is in french ^^)
+
+(c) Jean-Guillaume Brasier and Pablo Mas, graduate students at ESPCI Paris
