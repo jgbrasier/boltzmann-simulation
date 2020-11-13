@@ -12,7 +12,7 @@ Final grade: A+
 Clone repo:
 ``` $ git clone https://github.com/jgbrasier/boltzmann-simulation ```
 
-Build main (in repo file):
+Build main (in repo directory):
 ``` make ./start```
 
 Run
