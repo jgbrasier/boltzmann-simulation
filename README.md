@@ -26,3 +26,6 @@ program outputs a distribution.txt histogram of velocities.
 In __main()__:
  - Np (Number of particles): varies number of particles (currently program does not run with Np > 200)
  - diameter (particle diameter): if increase diameter, reduce Np (ther is no adaptive window scaling, you may encounter a run-time error)
+ 
+### Report
+You are free to view our final report "C - MAS BRASIER.pdf". (It is in french ^^)
