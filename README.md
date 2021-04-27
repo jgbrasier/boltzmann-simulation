@@ -1,5 +1,5 @@
 # Boltzmann simulation
-### Study of Maxwell-Boltzmann velocity distribution 
+## Study of Maxwell-Boltzmann velocity distribution 
 Particle-in-a-box (PIB) simulation written in C with C++ graphics animator. Uses event-driven programming. 
 
 Has thermal gradient and mobile vertical wall.
@@ -27,7 +27,11 @@ In __main()__:
  - Np (Number of particles): varies number of particles (currently program does not run with Np > 200)
  - diameter (particle diameter): if increase diameter, reduce Np (ther is no adaptive window scaling, you may encounter a run-time error)
  
-### Report
-You are free to view our final report "C - MAS BRASIER.pdf". (It is in french ^^)
+## Study of the Boltzmann energy distribution
 
-(c) Jean-Guillaume Brasier and Pablo Mas, graduate students at ESPCI Paris
+Jupyter Notebook detailing a simple collision model where only the energy of a particle in considered. At each timestep, particles have a probability p of exchanging their energies.
+
+![distribution](imgs/distribution.png)
+
+
+
