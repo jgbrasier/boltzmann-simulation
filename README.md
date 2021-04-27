@@ -12,7 +12,7 @@ Final grade: A+
 Clone repo:
 ``` $ git clone https://github.com/jgbrasier/boltzmann-simulation ```
 
-Build main (in repo file):
+Build main (in repo directory):
 ``` make ./start```
 
 Run
@@ -26,3 +26,8 @@ program outputs a distribution.txt histogram of velocities.
 In __main()__:
  - Np (Number of particles): varies number of particles (currently program does not run with Np > 200)
  - diameter (particle diameter): if increase diameter, reduce Np (ther is no adaptive window scaling, you may encounter a run-time error)
+ 
+### Report
+You are free to view our final report "C - MAS BRASIER.pdf". (It is in french ^^)
+
+(c) Jean-Guillaume Brasier and Pablo Mas, graduate students at ESPCI Paris
